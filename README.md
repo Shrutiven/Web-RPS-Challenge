@@ -49,7 +49,7 @@ Rock beats Scissors, Scissors beats Paper, Paper beats Rock.
 
 Dependencies
 
-1. Python 3.7+, OpenCV, CvZone, Mediapipe
+1. Python 3.7+, OpenCV, CvZone, Mediapipe and pip ( all updated and verison supporting correlated packages)
 2. Future Enhancements
 3. Multiplayer support.
 4. AI with strategy-based decisions.
